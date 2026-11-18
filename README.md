@@ -63,3 +63,5 @@ Paste this into your executor and run it while in the game.
 
 - Settings, macros and stats are saved locally on your device (when your executor supports file access) and are kept between sessions and teleports.
 - Feedback and bug reports are welcome via Issues.
+
+first ever script build on Lumen Lib by Fvfg2011
